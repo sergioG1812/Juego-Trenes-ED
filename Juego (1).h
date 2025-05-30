@@ -16,7 +16,6 @@ public:
 private:
     void turnoJugador(int jugadorId);
     bool verificarFinJuego();
-
     int numJugadores;
     int jugadorActual;
     bool juegoTerminado;
