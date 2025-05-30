@@ -14,4 +14,7 @@ Luego de subir cada archivo, presionar el boton de Run:
 
 ![image](https://github.com/user-attachments/assets/227223d0-7a14-46ad-b1b4-e4e86b041ad8)
 
-Y listo
+Y listo ya puedes empezar a jugar
+
+Diagrama de Clases:
+![Diagrama de clases Juego Trenes](https://github.com/user-attachments/assets/4359d024-74a6-4829-9a8c-acf8ce6a9dfb)
